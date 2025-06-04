@@ -1,10 +1,10 @@
 <div align="center">
-<h1>Mankind’s greatest fear is Mankind itself.</h1>
+<h1>El mayor miedo de la humanidad es la humanidad misma.</h1>
 </div>
 
 <div align="center">
 
-[![tripodsgames's GitHub stats](https://github-readme-stats.vercel.app/api?username=tripodsgames&theme=dracula&line_height=22)](https://github.com/tripodsgames/github-readme-stats)
+[![Brian Fernandez](https://github-readme-stats.vercel.app/api?username=tripodsgames&theme=dracula&line_height=22)](https://github.com/tripodsgames/github-readme-stats)
     
 </div>
 
